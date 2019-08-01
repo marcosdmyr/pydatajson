@@ -1,5 +1,10 @@
 Versiones
 =========
+0.4.45 (2019-07-30)
+-------------------
+* Actualizo dependencia python-dateutil (>= 2.8.0)
+
+
 0.4.44 (2019-07-30)
 -------------------
 * Bugfix en validación de campos de mail
